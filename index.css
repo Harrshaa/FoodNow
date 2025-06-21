@@ -1,0 +1,38 @@
+.header{
+    display: flex;
+    justify-content: space-between;
+    border: 1px solid black;
+    margin: 5px;
+}
+.logo-container{
+    width: 80px;
+}
+
+.navs{
+    display: flex;
+    padding:10px;
+    
+}
+
+.items {
+ margin: 10px;
+ padding: 10px;
+}
+
+.res-card{
+    border:solid 1px black;
+    width: 200px;
+    height: 300px;
+    text-align: center;
+    overflow: hidden; 
+}
+.search{
+    margin: 10px;
+}
+
+.food-image{
+    height: auto;
+    width: 100%;
+    display: block;
+}
+
